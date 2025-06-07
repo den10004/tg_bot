@@ -1,0 +1,37 @@
+[
+    {
+      "question": "Что изображено на картинке?",
+      "answers": ["самолёт", "корабль", "колесо", "автомобиль"],
+      "image": "1.jpg",
+      "correct": 3,
+      "answerType": "single"
+
+    },
+    {
+      "question": "Города России",
+      "answers": ["Москва", "Волгоград", "Новосибирск"],
+      "correct": [0, 1, 2],
+      "answerType": "multiple"
+
+    },
+    {
+      "question": "Столица России",
+      "answers": [],
+      "correct": "Москва",
+      "answerType": "text"
+    }, {
+      "question": "Что изображено на картинке?",
+      "answers": ["самолёт", "корабль", "колесо", "автомобиль"],
+      "image": "1.jpg",
+      "correct": 3,
+      "answerType": "single"
+
+    },
+    {
+      "question": "Города России",
+      "answers": ["Москва", "Иваново", "Лондон"],
+      "correct": [0, 1],
+      "answerType": "multiple"
+
+    }
+]
